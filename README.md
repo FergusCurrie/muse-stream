@@ -19,3 +19,5 @@ https://mind-monitor.com/FAQ.php#oscspec
 - TP10 - Right ear
 - AUXR - Right Auxiliary
 - AUXL - Left Auxiliary (MS-01/MS-02 only)
+
+---
