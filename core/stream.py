@@ -4,7 +4,7 @@ OSC implementation to read from muse headset.
 OSC = open sound control. Similar to json/xml. Is a format for waveform data. 
 peer-peer messaing protocol 
 message = address + data 
-data spec: https://mind-monitor.com/FAQ.php#oscspec 
+
 looks kinda like rest api
 
 pythonosc
@@ -35,7 +35,7 @@ def eeg_handler(address, *args):
     """
     Handle incoming EEG data and append it to a CSV file.
     delta, gamma etc are just extracted from raw data 
-    
+    : 
     - TP9 - Left ear
     - AF7 - Left forehead
     - AF8 - Right forehead
