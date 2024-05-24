@@ -10,20 +10,8 @@ packages = [{include = "*", from="core"}]
 python = "^3.12"
 pandas = "^2.2.0"
 numpy = "^1.26.3"
-scipy = "^1.12.0"
-jupyterlab = "^4.0.12"
-jax = "^0.4.23"
-jaxlib = "^0.4.23"
-matplotlib = "^3.8.2"
-seaborn = "^0.13.2"
-statsmodels = "^0.14.1"
-graphviz = "^0.20.1"
-distrax = "^0.1.5"
-linearmodels = "^5.4"
-scikit-learn = "^1.4.1.post1"
-typeguard = "^4.2.1"
 python-osc = "^1.8.3"
-h5py = "^3.11.0"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
